@@ -24,4 +24,6 @@ function TimeUp(){
 
 function StartGame(){
 	enabled = true;
+	
+	///test kine to confirm if Github is working appropriately or not.
 }
